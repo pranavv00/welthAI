@@ -1,6 +1,7 @@
 # Full Stack AI Finance Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI
 
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https:<img width="1909" height="952" alt="Screenshot 2026-03-20 at 3 38 27 AM" src="https://github.com/user-attachments/assets/af164246-a05b-418f-a8cf-7828b82443ae" />
+
 
 ### Make sure to create a `.env` file with following variables -
 
