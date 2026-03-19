@@ -143,13 +143,3 @@ Built with ❤️ by **Pranav Gawande**
 
 ```
 
----
-
-If you want next level 🔥  
-I can upgrade this with:
-- badges (stars, tech stack icons)
-- animated GIF preview
-- “Why this project stands out” section (great for placements)
-
-Just tell me 👍
-```
