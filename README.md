@@ -141,5 +141,3 @@ If you like this project:
 
 Built with ❤️ by **Pranav Gawande**
 
-```
-
