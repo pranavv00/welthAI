@@ -7,7 +7,8 @@ A modern **AI-powered finance management platform** built with cutting-edge tech
 
 ## 🖼️ Preview
 
-![App Screenshot](https://github.com/user-attachments/assets/af164246-a05b-418f-a8cf-7828b82443ae)
+<img width="1459" height="807" alt="Screenshot 2026-03-24 at 10 00 02 AM" src="https://github.com/user-attachments/assets/447071a5-4de7-4941-9dab-30991a4ccdc6" />
+
 
 ---
 
