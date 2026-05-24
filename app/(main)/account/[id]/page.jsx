@@ -5,6 +5,8 @@ import { notFound } from "next/navigation";
 import { AccountChart } from "../_components/account-chart";
 import { CURRENCY_LOCALES, EXCHANGE_RATES } from "@/components/currency-provider";
 
+export const dynamic = "force-dynamic";
+
 export default async function AccountPage({ params }) {
   const { id } = await params;
   const accountData = await getAccountWithTransactions(id);

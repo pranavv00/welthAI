@@ -12,6 +12,8 @@ import { DashboardOverview } from "./_components/transaction-overview";
 import { SpendingHeatmap } from "./_components/spending-heatmap";
 import { AnonymousComparison } from "./_components/anonymous-comparison";
 
+export const dynamic = "force-dynamic";
+
 export default async function DashboardPage() {
   const [accounts, transactions] = await Promise.all([
     getUserAccounts(),
