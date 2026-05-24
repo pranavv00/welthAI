@@ -35,12 +35,12 @@ export default async function RootLayout({ children }) {
 
   return (
     <ClerkProvider>
-      <html lang="en" className="dark" suppressHydrationWarning>
+      <html lang="en" suppressHydrationWarning>
         <head>
           <link rel="icon" href="/logo-sm.png" sizes="any" />
         </head>
         <body className={`${inter.className}`}>
-          <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false}>
+          <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false}>
             <CurrencyProvider initialCurrency={userCurrency}>
               <Header />
               <main className="min-h-screen pt-16">{children}</main>
