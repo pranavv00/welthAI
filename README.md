@@ -15,13 +15,13 @@ A modern **AI-powered finance management platform** built with cutting-edge tech
 ## ✨ Features
 
 - 💰 **Smart Expense Tracking** – Manage income & expenses seamlessly  
-- 🤖 **AI Insights** – Get intelligent financial suggestions using AI  
-- 🔐 **Authentication** – Secure login & onboarding with Clerk  
+- 🤖 **AI Financial Assistant** – Interactive AI chat widget powered by Gemini 2.5 Flash Lite  
+- 🔐 **Authentication** – Secure login & onboarding with Clerk (SSG Prerendering supported)  
 - 📊 **Data Visualization** – Clean and interactive UI for financial data  
-- ⚡ **Real-time Workflows** – Background jobs powered by Inngest  
+- ⚡ **Real-time Workflows** – Background jobs powered by latest Inngest v4  
 - 🛡️ **Security Layer** – Rate limiting & protection with ArcJet  
 - 📧 **Email Integration** – Notifications using Resend  
-- 🎨 **Modern UI** – Built with Tailwind + Shadcn UI  
+- 🎨 **Modern UI** – Built with Tailwind + Shadcn UI (Light Mode default)  
 
 ---
 
